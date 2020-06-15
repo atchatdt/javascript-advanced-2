@@ -2,7 +2,7 @@
 /**
  * ARRAY VS ARRAY
  * == không chuyển đổi gì cả chỉ quan tâm đến ô nhớ
- * < > Chuyển đổi mảng về dạng string để so sánh (mảng 1 phần tử)
+ * < > Chuyển đổi mảng về dạng string để so sánh 
  * ARRAY VS NUMBER (mảng 1 phần tử)
  * == chuyển mảng về dạng number
  * ARRAY VS STRING 
