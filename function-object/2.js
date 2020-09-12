@@ -14,5 +14,5 @@ function Animal(name, age){
 }
 
 let cat = new Animal('meo',18);
-console.log(cat;
+console.log(cat);
 // console.log(cat()); cách gọi function
